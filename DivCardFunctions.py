@@ -2,7 +2,8 @@ import os
 import requests
 import json
 import sys
-from DivCard import make_divcard
+
+from DivCard import *
 
 def SortDivCards(loadtext):
     print("Starting Sort...")
@@ -23,7 +24,7 @@ def SortDivCards(loadtext):
                 divName = value
             if key == "chaosValue":
                 divValue = value
-        newCard = make_divcard(divName, divValue)
+        newCard = DivCard(divName, divValue)
         divList.append(newCard)
         pass
     pass

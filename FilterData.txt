@@ -1,0 +1,39 @@
+# Section: Divination Cards
+
+Hide
+	Class "Divination Card"
+	BaseType "The Sun" "The Demoness" "Glimmer of Hope" "Blind Venture" "Emperor's Luck" "The Drunken Aristocrat" "The Pact" "The Oath" "The Mercenary" "The Sword King's Salute" "Lysah's Respite" "The Pack Leader" "Audacity" "The Scavenger" "Coveted Possession" "Gift of the Gemling Queen" "Hubris" "Shard of Fate" "The Calling" "The Conduit" "The Endurance" "The Fox" "The Gambler" "The Tower" "Three Faces in the Dark" "Tranquillity" "The Coming Storm" "The Realm" "Forbidden Power" "Three Voices" "The Witch" "Light and Truth" "The Explorer" "The Visionary" "Volatile Power" "Call to the First Ones" "Rats" "Her Mask" "Mitts" "Rain Tempter" "The Gladiator" "The Sigil" "Rain of Chaos" "The Twins" "A Mother's Parting Gift" "Anarchy's Price" "Cartographer's Delight" "Death" "Destined to Crumble" "Doedre's Madness" "Dying Anguish" "Grave Knowledge" "Lantador's Lost Love" "Loyalty" "Prosperity" "The Battle Born" "The Betrayal" "The Carrion Crow" "The Catalyst" "The Doppelganger" "The Dragon" "The Feast" "The Flora's Gift" "The Gemcutter" "The Gentleman" "The Incantation" "The Inoculated" "The Lich" "The Lover" "The Lunaris Priestess" "The Metalsmith's Gift" "The Rabid Rhoa" "The Scarred Meadow" "The Scholar" "The Summoner" "The Surgeon" "The Warden" "The Watcher" "The Web" "The Wolf's Shadow" "Thunderous Skies" "Turn the Other Cheek" "The Wolverine" "Might is Right" "The Opulent" "Struck by Lightning" "The Ruthless Ceinture" "The Eye of the Dragon" "The Deceiver" "The Puzzle" "The Army of Blood" "Assassin's Favour" "The King's Blade" "The Hermit"
+
+Show # Divination Cards - 50c+
+	Class "Divination Card"
+	BaseType "House of Mirrors" "Beauty Through Death" "The Doctor" "The Fiend" "The Immortal" "The Spark and the Flame" "Hunter's Reward" "The Wolven King's Bite" "Immortal Resolve" "The Samurai's Eye" "Abandoned Wealth" "The Iron Bard" "The Mayor" "The Queen" "Mawr Blaidd"
+	SetTextColor 0 0 0
+	SetBackgroundColor 0 255 255 200
+	SetBorderColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 0 Blue Square
+	PlayEffect Blue
+
+Show # Divination Cards - 10c - 49c
+	Class "Divination Card"
+	BaseType "Wealth and Power" "The Celestial Stone" "Pride Before the Fall" "The Dragon's Heart" "The Saint's Treasure" "The Hunger" "The Artist" "The King's Heart" "The Master" "The Undaunted" "The Professor" "Boon of the First Ones" "The Sephirot" "The Valkyrie" "The Wolf" "The Enlightened" "The Hoarder"
+	SetTextColor 0 0 0
+	SetBackgroundColor 0 255 255 200
+	SetBorderColor 0 0 0
+	SetFontSize 43
+	MinimapIcon 0 Blue Square
+	PlayEffect Blue
+
+Show # Divination Cards - 2c - 9c
+	Class "Divination Card"
+	BaseType "The Vast" "Heterochromia" "The Breach" "The Hale Heart" "Perfection" "The Celestial Justicar" "The Wind" "The Void" "Chaotic Disposition" "Time-Lost Relic" "The Polymath" "The Valley of Steel Boxes" "Bowyer's Dream" "The Ethereal" "The Risk" "The Thaumaturgist" "The Throne" "Left to Fate" "Rebirth" "The Undisputed" "The Wilted Rose" "The Endless Darkness" "The Cartographer" "The Last One Standing" "Lucky Deck" "The Brittle Emperor" "The Dapper Prodigy" "The Offering" "The Porcupine" "The Obscured" "The Dreamer" "The World Eater" "Emperor of Purity" "Humility" "Last Hope" "Scholar of the Seas" "The Dark Mage" "The Fletcher" "The Jester" "The Warlord" "The Wretched" "Lingering Remnants" "The Standoff" "The Jeweller's Boon" "The Innocent" "The Twilight Moon" "The Price of Protection"
+	SetTextColor 0 0 0
+	SetBackgroundColor 0 255 255 200
+	SetBorderColor 0 0 0
+	SetFontSize 42
+
+Show # Divination Cards - Others
+	Class "Divination Card"
+	SetTextColor 0 255 255
+	SetBorderColor 0 255 255
+	SetFontSize 40
